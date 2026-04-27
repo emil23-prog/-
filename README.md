@@ -20,6 +20,6 @@ markdown
 ---
 ## Как запустить
 ```bash
-git clone https://github.com/emil23-prog/weather-diary.git
+git clone https://github.com/emil23-prog/zadanie.py
 cd weather-diary
 python main.py
